@@ -16,7 +16,7 @@
         "parking": "Covered",
         "gated": "Yes",
         "dishwash": "Yes",
-        "address": "206 Fairfax Ave, 37212",
+        "address": "206 Fairfax Ave, 37212"
     },
     {
         "name": "Hillsboro Pike",
@@ -27,7 +27,7 @@
         "baths": 1,
         "sqft": 600,
         "available": "Now",
-        "fees": 000,
+        "fees": 0,
         "fitness": "No",
         "pool": "Yes",
         "lease": "?",
@@ -35,7 +35,7 @@
         "parking": "?",
         "gated": "No",
         "dishwash": "No",
-        "address": "3600 Hillsboro Pike 37215",
+        "address": "3600 Hillsboro Pike 37215"
     },
     {
         "name": "FairFax Avenue",
@@ -54,7 +54,7 @@
         "parking": "Surface Space",
         "gated": "No",
         "dishwash": "No",
-        "address": "2122 Fairfax Ave 37212",
+        "address": "2122 Fairfax Ave 37212"
     },
     {
         "name": "Blackstone Apartments",
@@ -73,12 +73,12 @@
         "parking": "Yes",
         "gated": "Yes",
         "dishwash": "Yes",
-        "address": "3300 West End Ave 37203",
+        "address": "3300 West End Ave 37203"
     },
     {
         "name": "Midtown Place",
         "img": "img/Midtown1.PNG",
-        "distance": .7,
+        "distance": 0.7,
         "price": 1250,
         "beds": 1,
         "baths": 1,
@@ -92,18 +92,18 @@
         "parking": "Covered and Other",
         "gated": "No",
         "dishwash": "Yes",
-        "address": "1016 18th Ave S 37212",
+        "address": "1016 18th Ave S 37212"
     },
     {
         "name": "Elliston Place",
         "img": "img/Elliston1.PNG",
-        "distance": .4,
+        "distance": 0.4,
         "price": 1295,
         "beds": 2,
         "baths": 2,
         "sqft": 750,
         "available": "Now",
-        "fees": 000,
+        "fees": 0,
         "fitness": "No",
         "pool": "No",
         "lease": "None",
@@ -111,12 +111,12 @@
         "parking": "Off Street",
         "gated": "No",
         "dishwash": "Yes",
-        "address": "2325 Elliston Pl APT 103 37203",
+        "address": "2325 Elliston Pl APT 103 37203"
     },
     {
         "name": "Fairfax Avenue Apartment",
         "img": "img/FApt1.PNG",
-        "distance": .9,
+        "distance": 0.9,
         "price": 1150,
         "beds": 1,
         "baths": 1,
@@ -130,12 +130,12 @@
         "parking": "?",
         "gated": "?",
         "dishwash": "No",
-        "address": "2121 Fairfax Ave APT 14, Nashville, TN 37212",
+        "address": "2121 Fairfax Ave APT 14, Nashville, TN 37212"
     },
     {
         "name": "Convent",
         "img": "img/Convent1.PNG",
-        "distance": .9,
+        "distance": 0.9,
         "price": 1250,
         "beds": 1,
         "baths": 1,
@@ -149,6 +149,6 @@
         "parking": "?",
         "gated": "No",
         "dishwash": "Yes",
-        "address": "1908 Convent Pl #11, Nashville, TN 37212",
+        "address": "1908 Convent Pl #11, Nashville, TN 37212"
     }
 ]

@@ -1,0 +1,132 @@
+body
+{
+    background-color:rgb(230, 230, 255);
+    
+    
+}
+header
+{
+    font-size:100px;
+    
+}
+
+table
+{
+    align-content: center;
+    width: 2000;
+    text-align: left;
+    border-collapse: collapse;
+    font-size: 20px;
+    border:3px solid rgb(0, 38, 77);
+    vertical-align: top;
+    background-color:rgb(191, 191, 191);
+}
+td
+{
+    height:150px;
+    width:150px;
+    max-height:150px;
+    padding: 15px;
+    padding-top: 10px;
+    border: 3px solid rgb(0, 38, 77);
+    vertical-align: center;
+    background-color: rgb(230, 230, 255);
+}
+img
+{
+    max-height: 150px;
+    max-width: 150px;
+    
+}
+#images 
+{
+    padding-top: 30px;
+    
+}
+#name > tr > tr >td
+{
+    background-color: #c2c4f7;
+}
+
+#images > tr > tr >td
+{
+    background-color: #adb5e8;
+}
+
+#price > tr > td
+{
+    background-color:#99a6d9;
+}
+
+#sqft > tr > td
+{
+    background-color: #8f9ed1;
+}
+
+#beds > tr > td
+{
+    background-color:#8596c9;
+}
+
+#baths > tr > td
+{
+    background-color: #7087ba;
+}
+
+#fees > tr > td
+{
+    background-color: #6680b2;
+}
+
+#distance > tr > td
+{
+    background-color: #5c78ab;
+}
+
+#available > tr >td
+{
+    background-color:#47699c;
+    
+}
+
+#fitness > tr > td
+{
+    background-color: #3d6194;
+     color: #262626;
+}
+
+#pool > tr > td
+{
+    background-color: #33598c;
+    color: #8c8c8c;
+}
+
+#lease > tr > td
+{
+    background-color: #295285;
+    color:#999999;
+}
+
+#washdry > tr >td
+{
+    background-color: #1f4a7d;
+    color:#999999;
+}
+
+#parking > tr >td
+{
+    background-color:  #144275;
+    color: #bfbfbf
+}
+
+#gated > tr >td
+{
+    background-color:#0a3b6e;
+    color: #bfbfbf
+}
+
+#dishwash > tr > td
+{
+    background-color:#003366;
+    color:  #e6e6e6;   
+}
